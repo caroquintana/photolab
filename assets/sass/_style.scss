@@ -81,12 +81,11 @@
 				margin-left: 100px;
 				& .credits{
 					font-size: 14px;
-    				color: darkslategrey;
-    				font-weight: 700;
+					@include estilosfoot;
 				}
 				& .copy{
 					font-size: 12px;
-					color: darkslategrey;
+					@include estilosfoot;
 				}
 			}
 		}
