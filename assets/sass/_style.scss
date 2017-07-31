@@ -40,7 +40,8 @@
 	position: relative;
 	& .container-fluid{
 		& .row{
-			& .container-two{
+			& .cont-two{
+				margin-top: 160px;
 				& .title_two{
 					margin-top: 20px;
 					font-family: $segundatypo;
