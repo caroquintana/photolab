@@ -76,9 +76,8 @@
 	height: 100px;
 	& .container-fluid{
 		& .row{
-			& .pie{
+			& .fin{
 				margin-top: 20px;
-				margin-left: 100px;
 				& .credits{
 					font-size: 14px;
 					@include estilosfoot;
